@@ -1,0 +1,3 @@
+docx
+openpyxl
+PyPDF2~=2.0
